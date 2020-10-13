@@ -31,11 +31,11 @@ print '                                                                   '
 print '                                           '
 
 print '    '
-email = raw_input('Attacker Gmail Address : ')
+email = raw_input('Attacker Gmail Address :shredddrrlol@gmail.com ')
 print '             '
-user = raw_input('Anonymous name : ')
+user = raw_input('Anonymous name :mom ')
 print '      '
-passwd = getpass.getpass('Password: ')
+passwd = getpass.getpass('Password:none ')
 
 print '   '
 
@@ -44,11 +44,11 @@ to = raw_input('\nTo: ')
 
 print '    '
 
-body = raw_input('Message: ')
+body = raw_input('Message:nub ')
 
 print '    '
 
-total = input('Number of send: ')
+total = input('Number of send: 500')
 
 smtp_server = 'smtp.gmail.com'
 port = 587
